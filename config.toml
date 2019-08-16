@@ -1,0 +1,23 @@
+baseURL = "https://hyperlexia.xyz/"
+languageCode = "en-us"
+title = "Hyperlexia"
+author = "Nickolas Kraus"
+canonifyurls = true
+theme = "black-and-light-2"
+
+pygmentsStyle       = "tango"
+pygmentsCodeFences  = true
+
+googleAnalytics = ""
+
+[params]
+  siteName = "Hyperlexia"
+  dateFormat = "January 2, 2006"
+  mode = "dark"
+
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+[[menu.main]]
+    name = "Drugs"
+    url  = "/drugs"

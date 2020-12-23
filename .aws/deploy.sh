@@ -6,7 +6,7 @@
 #
 
 # change directory to project root
-cd $HOME/Workspace/hyperlexia-xyz
+cd $HOME/NickolasHKraus/hyperlexia-xyz
 
 # set S3 bucket
 S3_BUCKET_ROOT=$(aws cloudformation describe-stack-resources \
